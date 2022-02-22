@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kadencartwright
-- 👀 I’m interested in microservices
-- 🌱 I’m currently learning Apache Kafka & Kubernetes
-- 💞️ I’m looking to collaborate on anything interesting with typescript!
+- 👀 I’m interested in Full-stack web, and embedded, coffee, music, and fun ways to combine them
+- 🌱 I’m currently learning Rust and RTIC
+- 💞️ I’m looking to collaborate on anything interesting with typescript or Rust!
 - 📫 How to reach me: cartwrightkaden@gmail.com
 
 <!---
